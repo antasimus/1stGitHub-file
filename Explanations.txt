@@ -1,0 +1,1 @@
+I just created empty remote pepository at GitHub.com account and cloned it to my local Git.
